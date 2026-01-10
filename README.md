@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ytsubhadip
+- 👋 Hi, I’m subhadip
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning BSc data Science
 - 💞️ I’m looking to collaborate on a startup company
