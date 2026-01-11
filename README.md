@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm subhadip</h1>
-<h3 align="center">A passionate Backend Developer and Data Enginear</h3>
+<h3 align="center">A passionate Backend Developer and Data Engineer</h3>
 
 
 
