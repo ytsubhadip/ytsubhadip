@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm subhadip</h1>
 <h3 align="center">A passionate Backend Developer and Data Enginear</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ytsubhadip&label=Profile%20views&color=0e75b6&style=flat" alt="ytsubhadip" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ytsubhadip" alt="ytsubhadip" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="ytsubhadip" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
