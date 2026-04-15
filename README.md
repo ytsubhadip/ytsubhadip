@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🔭 I’m currently working on [SafeWalk](https://error-404-team-not-found.onrender.com/)
+- 🔭 I’m currently working on [Quick Lab](https://quick-lab.onrender.com/)
 
 - 🌱 I’m currently learning **Gen AI, RAG, Data Science**
 
