@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, I'm subhadip</h1>
 <h3 align="center">A passionate Backend Developer and Data Engineer</h3>
 
-
-
-
- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
-
 - 🔭 I’m currently working on [Quick Lab](https://quick-lab.onrender.com/)
 
-- 🌱 I’m currently learning **Gen AI, RAG, Data Science**
-
-- 👯 I’m looking to collaborate on [Speach or Non-Speach](https://github.com/Biswajit704497/SpeachNonSpeachDeticition.git)
+- 🌱 I’m currently learning **Gen AI, RAG, Data Science, GAN**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/subhadip-bar-496a682a2/](https://www.linkedin.com/in/subhadip-bar-496a682a2/)
 
@@ -27,8 +20,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/subhadip-bar-496a682a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhadip bar" height="30" width="40" /></a>
+ 
 <a href="https://www.kaggle.com/subhadipbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subhadip bar" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/profile/ytsubhadip0099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="subhadip bar" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
