@@ -31,7 +31,7 @@
 
 - 🔭 Currently working on [Quick Lab](https://quick-lab.onrender.com/)
 - 🌱 Learning **Gen AI, RAG, Data Science, GAN**
-- 💬 Ask me about **Flask, FastAPI, Django**
+- 💬 Ask me about **Flask, FastAPI**
 - 📫 Reach me at **ytsubhadip0099@gmail.com**
 - 📄 My experience: [Resume](https://drive.google.com/file/d/1hkaKkE1e2lnmCmqcImt0FbZPpjE5kzCs/view?usp=sharing)
 - ⚡ Fun fact: **Chai with code**
